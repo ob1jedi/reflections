@@ -13,3 +13,14 @@
 
 ? What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 When you would like to make another version of the game, perhaps an easier version for instance.
+
+?How do diagrams help you to visualize the branch structure?
+Because you can see how the bracnhes relate to each other, in a tree like structure.
+
+?What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result is that the changes from both branches are merged together.
+
+?What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+Doing merges manually. 
+Doing it autoatically obviously saves more time, but there is some guessing involved.
+This guessing could possibly cause problematic code. This would not be an issue in manual merging.
