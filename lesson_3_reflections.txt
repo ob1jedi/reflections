@@ -1,0 +1,9 @@
+Manual vs. automatic pull
+You would want to pull changes manually so that your code always behaves as you expect it.
+If git is pulling in updates automatically it may not only overwrite changes you've made, 
+but it may also make changes to your code that you won't be aware of.
+
+Describe the differences between forks, clones, and branches. when would you use one instead of the other?
+Forks are git to git copies of a repository.
+A clone is a local copy of a repository.
+A branch is a variation of a repository.
