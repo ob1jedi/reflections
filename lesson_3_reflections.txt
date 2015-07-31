@@ -11,3 +11,7 @@ A branch is a variation of a repository.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 so that if someone else changes the remote, you can check the differences between 
 your last version of the remote and the new version of the remote.
+
+How would you collaborate without using Git or github? 
+What would be easier and what would be harder.
+Well I would use email, or chat. I suppose chat would be easier and email would be harder.
